@@ -1,6 +1,6 @@
 # get_table_data
 
-##1.homebrewをインストール
+## 1.homebrewをインストール
 $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 ## 2.Python3をインストール
